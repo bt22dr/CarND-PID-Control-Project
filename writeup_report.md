@@ -1,7 +1,7 @@
 # PID controll Project
 
 ## PID controller
-PID(proportional–integral–derivative) controller
+PID(proportional–integral–derivative) controller. 
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/708c8516a7531aca1fa256551f73752fae023e9c)
 
 * Proportional term(K_p): The proportional term produces an output value that is proportional to the current error value.
